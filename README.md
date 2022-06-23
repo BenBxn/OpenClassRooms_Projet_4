@@ -9,7 +9,7 @@ Ce projet est le n°4 du parcours [Développeur Web](https://openclassrooms.com/
 ### 🎬 Contexte
 Employé pour l'agence La Panthère, une agence de web design basée à Lyon dont l'activité est en perte de vitesse face à une concurrence rude. 
 <p align="center">
-<img alt="Logo La Panthère" width="200px" src="https://raw.githubusercontent.com/BenBxn/OpenClassRooms_Projet_4/main/imag/logo.png" />
+<img alt="Logo La Panthère" width="200px" src="https://raw.githubusercontent.com/BenBxn/OpenClassRooms_Projet_4/main/img/logo.png" />
 </p>
 L'agence n'apparaît qu'en deuxieme page des recherches Google, la fondatrice de l’agence nous sollicite pour effectuer un audit du site.
 
@@ -28,9 +28,9 @@ L'agence n'apparaît qu'en deuxieme page des recherches Google, la fondatrice de
 
 ### 🛠️ Outils et Application 
 
-- VsCode <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-- [Wave](https://wave.webaim.org/report#/https://benbxn.github.io/OpenClassRooms_Projet_4/contact.html) <img align="left" alt="Wave logo" width="30px" src="https://wave.webaim.org/img/wavelogo.svg" style="padding-right:10px;"/>
-- [PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Fbenbxn.github.io%2FOpenClassRooms_Projet_4%2Findex.html) & [web.Dev](https://web.dev/measure/?gclid=CjwKCAjw14uVBhBEEiwAaufYx7Bgj5cZjPScjxXs7_a6VOXezP_-9WBhzA4Mv7Qwb0VJRl7osHTkmRoCD7MQAvD_BwE&url=https%3A%2F%2Fbenbxn.github.io%2FOpenClassRooms_Projet_4%2Findex.html) <img align="left" alt="PageSpeed Insights" width="30px" src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" style="padding-right:10px;"/>
+- VsCode <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+- [Wave](https://wave.webaim.org/report#/https://benbxn.github.io/OpenClassRooms_Projet_4/contact.html) <img align="left" alt="Wave logo" width="50px" src="https://wave.webaim.org/img/wavelogo.svg" style="padding-right:10px;"/>
+- [PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Fbenbxn.github.io%2FOpenClassRooms_Projet_4%2Findex.html) & [web.Dev](https://web.dev/measure/?gclid=CjwKCAjw14uVBhBEEiwAaufYx7Bgj5cZjPScjxXs7_a6VOXezP_-9WBhzA4Mv7Qwb0VJRl7osHTkmRoCD7MQAvD_BwE&url=https%3A%2F%2Fbenbxn.github.io%2FOpenClassRooms_Projet_4%2Findex.html) <img align="left" alt="PageSpeed Insights" width="25px" src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png" style="padding-right:10px;"/>
 
 ### 🎓 Compétences acquises et/ou Mises à jour
 - Écrire un code HTML et CSS maintenable
