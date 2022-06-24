@@ -4,7 +4,7 @@
 
 
 ### 📝 Description du projet
-Ce projet est le n°4 du parcours [Développeur Web](https://openclassrooms.com/fr/paths/556-developpeur-web "Développeur  Web") qui consiste à Optimisez un site web existant.
+Ce projet est le n°4 du parcours [Développeur Web](https://openclassrooms.com/fr/paths/556-developpeur-web "Développeur  Web") qui consiste à Optimiser un site web existant.
 
 ### 🎬 Contexte
 Employé pour l'agence La Panthère, une agence de web design basée à Lyon dont l'activité est en perte de vitesse face à une concurrence rude. 
@@ -26,7 +26,7 @@ L'agence n'apparaît qu'en deuxieme page des recherches Google, la fondatrice de
 <!-- ##### Spécifications fonctionnelles 🌐
 ##### Spécifications techniques 🧬 -->
 
-### 🛠️ Outils et Application 
+### 🛠️ Outils et Applications 
 
 - VsCode <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 - [Wave](https://wave.webaim.org/report#/https://benbxn.github.io/OpenClassRooms_Projet_4/contact.html) <img align="left" alt="Wave logo" width="50px" src="https://wave.webaim.org/img/wavelogo.svg" style="padding-right:10px;"/>
