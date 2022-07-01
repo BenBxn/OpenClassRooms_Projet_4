@@ -42,4 +42,4 @@ L'agence n'apparaît qu'en deuxieme page des recherches Google, la fondatrice de
 ### 🔍 Informations complémentaires
 - Lien vers le site optimisé : https://benbxn.github.io/OpenClassRooms_Projet_4/index.html 🔗
 - Lien vers le site original : https://benbxn.github.io/OpenClassRooms_Projet_4_Original/index.html 🔗
-<!-- Soutenance validée le  ✅ -->
+- Soutenance validée le 01/07/2022 ✅ 
